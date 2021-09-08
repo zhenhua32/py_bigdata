@@ -1,0 +1,4 @@
+pyspark
+numpy
+flake8
+black
